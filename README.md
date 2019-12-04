@@ -16,4 +16,5 @@ http://book.fitruums.com/1/SOAP/Booking.asmx
 
 e.g. http://search.fitruums.com/1/PostGet/NonStaticXMLAPI.asmx?op=GetLanguages
 
-p.s. this project is alive, if you need update, please contact me
+
+p.s. this project is alive, if you need update, please contact me or raise an issue
